@@ -19,6 +19,8 @@ OPENAI_API_KEY= Ключ OpenAI
 
 Получение ключа [OpenAI](https://platform.openai.com/account/api-keys)
 
+#### Распаковка Tesseract-OCR
+
 Далее распаковываем Tesseract-OCR.zip в папку с ботом.
 
 #### Запуск
